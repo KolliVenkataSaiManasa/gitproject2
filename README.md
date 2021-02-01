@@ -18,6 +18,6 @@
 - git push remotename branch name
 - git pull remote new branch name
 ## remote
-- git add remote name "repo link"
+- git remote add name "repo link"
 ## remote status
 - git remote -v
