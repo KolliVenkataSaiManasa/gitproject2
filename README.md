@@ -22,4 +22,4 @@
 ## remote status
 - git remote -v
 ## cloning existing repository
-- git clone
+- git clone "repository link"
